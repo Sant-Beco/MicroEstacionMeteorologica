@@ -1,0 +1,38 @@
+# Ignorar archivos de configuración local
+/config.json
+/credentials.h
+
+# Ignorar archivos generados por el IDE de Arduino
+/.idea/
+/*.ino.bak
+/*.ino.elf
+/*.ino.hex
+/*.ino.with_bootloader.bin
+/*.ino.with_bootloader.hex
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de compilación y binarios
+/build/
+/bin/
+/obj/
+
+# Ignorar librerías descargadas automáticamente
+/libraries/
+
+# Ignorar archivos de entorno virtual (si usas Python para algo)
+/venv/
+/env/
+/.env
+
+# Ignorar archivos de registro y datos temporales
+*.log
+*.tmp
+*.temp
+
+# Ignorar archivos de backup
+*.bak
+*.backup
+
