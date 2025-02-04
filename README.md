@@ -28,7 +28,4 @@ Este proyecto tiene como objetivo proporcionar una forma eficiente y accesible p
 
 ---
 
-## 🚀 **Cómo Empezar**:
-
-### 1. Clona este Repositorio:
 
